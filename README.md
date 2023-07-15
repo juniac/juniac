@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniac&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniac&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 I’m currently using
