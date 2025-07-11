@@ -29,6 +29,7 @@ Mac                      37 hrs 29 mins      ███████████�
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniac&layout=pie)
 
 ---
+<!--
 
 #### I’m currently using
 
@@ -58,7 +59,7 @@ Mac                      37 hrs 29 mins      ███████████�
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
+-->
 <!--
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
