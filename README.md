@@ -1,11 +1,25 @@
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C118%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C129%20hrs%207%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-16.27%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-16.35%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+💬 프로그래밍 언어들: 
+Other                    44 hrs 59 mins      ████████████████░░░░░░░░░   63.76 % 
+TypeScript               7 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Swift                    5 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Python                   2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Bash                     1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+
+💻 운영 체제들: 
+Mac                      70 hrs 33 mins      █████████████████████████   100.00 % 
+```
 
 
- Last Updated on 07/02/2026 18:48:00 UTC
+ Last Updated on 08/02/2026 18:48:31 UTC
 <!--END_SECTION:waka-->
 
 
