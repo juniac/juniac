@@ -2,8 +2,22 @@
   <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.33%20million%20lines%20of%20code-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 17/05/2026 18:52:14 UTC
+```text
+💬 Programming Languages: 
+Other                    22 hrs 52 mins      ████████████░░░░░░░░░░░░░   46.75 % 
+TypeScript               15 hrs 46 mins      ████████░░░░░░░░░░░░░░░░░   32.23 % 
+JSON                     2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Bash                     1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Rust                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+
+💻 Operating System: 
+Mac                      48 hrs 56 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 18/05/2026 19:10:10 UTC
 <!--END_SECTION:waka-->
 
 
