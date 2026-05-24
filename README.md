@@ -1,9 +1,25 @@
 
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C739%20hrs%2018%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.34%20million%20lines%20of%20code-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 23/05/2026 18:52:07 UTC
+```text
+💬 Programming Languages: 
+Other                    15 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   32.90 % 
+TypeScript               9 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+C                        3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Lua                      3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Python                   2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+
+💻 Operating System: 
+Mac                      47 hrs 32 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 24/05/2026 18:55:23 UTC
 <!--END_SECTION:waka-->
 
 
