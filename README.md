@@ -1,6 +1,6 @@
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C862%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C871%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.48%20million%20lines%20of%20code-blue?style=flat)
 
@@ -8,18 +8,18 @@
 
 ```text
 💬 Programming Languages: 
-Swift                    22 hrs 33 mins      ██████████████░░░░░░░░░░░   55.82 % 
-Other                    10 hrs              ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-Bash                     3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Go                       1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-TOML                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Swift                    25 hrs 16 mins      █████████████████░░░░░░░░   66.39 % 
+Other                    8 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+Bash                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+TOML                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 💻 Operating System: 
-Mac                      40 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      38 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/06/2026 19:50:46 UTC
+ Last Updated on 16/06/2026 19:48:59 UTC
 <!--END_SECTION:waka-->
 
 
