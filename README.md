@@ -2,22 +2,8 @@
   <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.71%20million%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Other                    10 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   38.37 % 
-Swift                    7 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-Markdown                 3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-PHP                      2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Astro                    1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-
-💻 Operating System: 
-Mac                      26 hrs 36 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 23/07/2026 19:59:55 UTC
+ Last Updated on 24/07/2026 19:58:16 UTC
 <!--END_SECTION:waka-->
 
 
