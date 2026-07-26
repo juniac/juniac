@@ -8,18 +8,18 @@
 
 ```text
 💬 Programming Languages: 
-Other                    11 hrs 48 mins      ███████████░░░░░░░░░░░░░░   44.56 % 
-Swift                    5 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-Markdown                 3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-PHP                      2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Astro                    1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Other                    11 hrs 24 mins      ███████████░░░░░░░░░░░░░░   45.18 % 
+Swift                    5 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+Markdown                 3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+PHP                      2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Cocoa                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 
 💻 Operating System: 
-Mac                      26 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/07/2026 19:45:31 UTC
+ Last Updated on 26/07/2026 19:47:45 UTC
 <!--END_SECTION:waka-->
 
 
