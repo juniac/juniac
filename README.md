@@ -1,51 +1,51 @@
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C188%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C189%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-261%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-262%20hrs%2043%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.71%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.72%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    12 hrs 34 mins      ██████████████░░░░░░░░░░░   56.90 % 
-Swift                    3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Fork                     2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-TypeScript               1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Cocoa                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Other                    14 hrs 46 mins      ███████████████░░░░░░░░░░   59.28 % 
+Swift                    4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Fork                     2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+TypeScript               1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Cocoa                    1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 
 💻 Operating System: 
-Mac                      22 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      24 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 33 mins (29.71%)
+⏱ AI Coding Time: 7 hrs 49 mins (31.41%)
 
-✍️ 2,257 lines written by AI, 71 lines written by hand (96.95% AI-written)
+✍️ 1,556 lines written by AI, 71 lines written by hand (95.64% AI-written)
 
-🔤 275,720,563 Input Tokens, 639,985 Output Tokens
+🔤 287,577,669 Input Tokens, 526,509 Output Tokens
 
 💵 $471.24 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 128 AI Prompts
+🧠 11 AI Sessions, 136 AI Prompts
 
 Sonnet                   1,192 lines         █████████████████████████   99.83 % 
 Fable                    2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.95% of written lines came from AI
-📝 Concise Prompter — average 245 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 2.75% of changed lines were hand-edited
+🤖 AI-Driven — 95.64% of written lines came from AI
+📝 Concise Prompter — average 190 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 3.83% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/07/2026 19:56:47 UTC
+ Last Updated on 30/07/2026 20:05:51 UTC
 <!--END_SECTION:waka-->
 
 
