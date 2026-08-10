@@ -6,46 +6,22 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.72%20million%20lines%20of%20code-blue?style=flat)
 
+📅 **I'm Most Productive on Wednesday** 
+
+<svg width="720" viewBox="0 0 720 188" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Monday</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">916 commits</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="6" width="50" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">13.80%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Tuesday</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">1286 commits</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="30" width="70" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">19.37%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Wednesday</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">1538 commits</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="54" width="83" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">23.17%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Thursday</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">1143 commits</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="78" width="62" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">17.22%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">Friday</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">927 commits</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="102" width="50" height="8" rx="4" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">13.96%</text><text x="0" y="136" font-family="monospace" font-size="13" fill="#c9d1d9">Saturday</text><text x="170" y="136" font-family="monospace" font-size="13" fill="#8b949e">394 commits</text><rect x="280" y="126" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="126" width="21" height="8" rx="4" fill="#90CAF9"/><text x="648" y="136" font-family="monospace" font-size="12" fill="#8b949e">5.93%</text><text x="0" y="160" font-family="monospace" font-size="13" fill="#c9d1d9">Sunday</text><text x="170" y="160" font-family="monospace" font-size="13" fill="#8b949e">435 commits</text><rect x="280" y="150" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="150" width="24" height="8" rx="4" fill="#90CAF9"/><text x="648" y="160" font-family="monospace" font-size="12" fill="#8b949e">6.55%</text></svg>
+
+
 📊 **This Week I Spent My Time On** 
 
-```text
 💬 Programming Languages: 
-Other                    19 hrs 35 mins      ██████████████░░░░░░░░░░░   55.20 % 
-TypeScript               13 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   36.84 % 
-Swift                    1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-README                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Other</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">19 hrs 35 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="6" width="199" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">55.20%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">TypeScript</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">13 hrs 4 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="30" width="133" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">36.84%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Swift</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">1 hr 36 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="54" width="16" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">4.53%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">README</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">19 mins</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="78" width="3" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">0.92%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">JSON</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">15 mins</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="102" width="3" height="8" rx="4" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">0.73%</text></svg>
 
 💻 Operating System: 
-Mac                      35 hrs 29 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 7 hrs 40 mins (21.61%)
-
-✍️ 3,133 lines written by AI, 859 lines written by hand (78.48% AI-written)
-
-🔤 442,963,809 Input Tokens, 593,266 Output Tokens
-
-💵 $2149.31 Estimated AI Cost This Week
-
-🧠 14 AI Sessions, 147 AI Prompts
-
-Sonnet                   2,251 lines         █████████████████░░░░░░░░   68.44 % 
-Fable                    1,038 lines         ████████░░░░░░░░░░░░░░░░░   31.56 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 78.48% of written lines came from AI
-📚 Verbose Prompter — average 4,148 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 31.44% of changed lines were hand-edited
-```
+<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Mac</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">35 hrs 29 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="6" width="360" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text></svg>
 
 
- Last Updated on 10/08/2026 05:09:16 UTC
+
+ Last Updated on 10/08/2026 05:25:49 UTC
 <!--END_SECTION:waka-->
 
 
