@@ -8,18 +8,18 @@
 
 ```text
 💬 Programming Languages: 
-Other                    21 hrs 57 mins      ███████████████░░░░░░░░░░   58.20 % 
-Swift                    9 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-Image (svg)              2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Fork                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-HTML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Other                    19 hrs 6 mins       ███████████████░░░░░░░░░░   58.58 % 
+Swift                    6 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+Image (svg)              2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Fork                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+HTML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 💻 Operating System: 
-Mac                      37 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/10/2026 21:49:37 UTC
+ Last Updated on 06/10/2026 00:18:12 UTC
 <!--END_SECTION:waka-->
 
 
