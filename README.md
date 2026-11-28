@@ -2,25 +2,25 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C440%20hrs%2018%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.65%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.74%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    25 hrs 27 mins      █████████████░░░░░░░░░░░░   51.67 % 
-Fork                     8 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Swift                    5 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Image (svg)              1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-TypeScript               1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Other                    21 hrs 19 mins      █████████████░░░░░░░░░░░░   53.59 % 
+Fork                     6 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Swift                    5 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Image (svg)              1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+TypeScript               1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 💻 Operating System: 
-Mac                      48 hrs 56 mins      █████████████████████████   99.33 % 
-Linux                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Mac                      39 hrs 28 mins      █████████████████████████   99.26 % 
+Linux                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 
 
- Last Updated on 27/11/2026 01:56:20 UTC
+ Last Updated on 28/11/2026 01:38:02 UTC
 <!--END_SECTION:waka-->
 
 
